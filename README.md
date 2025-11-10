@@ -47,10 +47,6 @@
     src="https://github.com/user-attachments/assets/72190cd6-1857-4978-bb29-d26902ff3ce7" />
 
   
-  <img  width="2000" height="1000"
-    src="https://files.catbox.moe/sgqpjj.png"
-      />
-
 
   
 
