@@ -6,24 +6,11 @@
 
 
 
-<div align="center">
-
-
-  
-  <img  width="10000" height="500"
-    src=
-     "https://files.catbox.moe/eh1wq6.png"
-      />
-
-"𝐇𝐚𝐫𝐯𝐞𝐲 𝐤𝐞𝐞𝐩𝐬 𝐨𝐧 𝐩𝐥𝐚𝐲𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐡𝐢𝐬 𝐟𝐨𝐨𝐝.
-𝐇𝐞 𝐝𝐨𝐞𝐬𝐧'𝐭 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐰𝐡𝐚𝐭 𝐛𝐢𝐠 𝐛𝐨𝐲𝐬 𝐝𝐨"
 
 ###
 ###
 
-  <img  width="10000" height="500"
-    src="https://files.catbox.moe/wq0v5a.gif"
-      />
+ 
 
 
 ###
