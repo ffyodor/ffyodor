@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=ffyodor&style=plastic&color=grey " alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=ffyodor&style=plastic&color=6b0505 " alt = "Profile Views"/>
   
 ###
 
