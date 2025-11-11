@@ -15,9 +15,6 @@ A𝐥𝐰𝐚𝐲𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
 ###
 ###
   
-  <img width="1000" height="5100" alt="image"
-    src="https://supposed-pink-hibx1ntoqt.edgeone.app/Diseño%20sin%20título_20251110_232158_0000.png"
-	    />
 
   
 
