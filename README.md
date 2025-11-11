@@ -7,11 +7,15 @@
 
  
 
-𝐖𝐡𝐢𝐬𝐩𝐞𝐫 - 𝐂 + 𝐇 - 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
+𝐖𝐡𝐢𝐬𝐩𝐞𝐫 - 𝐂 + 𝐇 - 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭 
 
+𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
+###
+###
   
   <img width="1000" height="5100" alt="image"
-    src="https://github.com/user-attachments/assets/72190cd6-1857-4978-bb29-d26902ff3ce7" />
+    src="https://supposed-pink-hibx1ntoqt.edgeone.app/Diseño%20sin%20título_20251110_232158_0000.png"
+	    />
 
   
 
