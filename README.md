@@ -16,7 +16,7 @@ A𝐥𝐰𝐚𝐲𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
 ###
 
 <div align="center">
-   <img width=100% src="https://i.pinimg.com/originals/61/30/21/6130215d4ea93a6e3e9708b07f920a63.gif"	
+   <img width=100% src=  "https://s5.ezgif.com/tmp/ezgif-5aafcf97e567979e.webp"
 </div>
   
 
