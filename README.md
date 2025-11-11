@@ -17,7 +17,7 @@ A𝐥𝐰𝐚𝐲𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
 ###
 
 <div align="center">
-   <img width=100% src="https://media1.tenor.com/m/bhV38sDIfYgAAAAd/fyodor-bungo-stray-dogs.gif"		   	      
+   <img width=40% src="https://media.tenor.com/wmBcuib6YLYAAAAi/fyodor.gif"      
 </div>
   
 
