@@ -18,8 +18,9 @@ A𝐥𝐰𝐚𝐲𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
 
 
 <div align="center">
-   <img width=40% src="https://media.tenor.com/wmBcuib6YLYAAAAi/fyodor.gif"
-</div>
+   <img width=40% src="https://github.com/ffyodor/ffyodor/blob/main/F%C3%BCnf%20Tipps%20f%C3%BCr%20tolle%20Haut_20251111_194422_0000.gif"
+	   </div>
+	   
   
 
   
