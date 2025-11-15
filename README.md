@@ -15,7 +15,7 @@ A𝐥𝐰𝐚𝐲𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝
 · · ────── ꒰ঌ·  ✟  ·໒꒱ ────── · ·
 
   <div align="center">
-   <img width=100% height=150& src="https://github.com/ffyodor/ffyodor/blob/main/F%C3%BCnf%20Tipps%20f%C3%BCr%20tolle%20Haut%20(4).gif?raw=true"
+   <img width=150% height=70& src="https://github.com/ffyodor/ffyodor/blob/main/F%C3%BCnf%20Tipps%20f%C3%BCr%20tolle%20Haut%20(4).gif?raw=true"
 	   </div>
 
 <div align="center">
