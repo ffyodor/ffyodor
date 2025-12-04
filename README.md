@@ -4,7 +4,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=ffyodor&style=plastic&color=6b0505 " alt = "Profile Views"/>
   
 ##
-𝐒𝐯𝐚𝐢𝐧/𝐀𝐫𝐭𝐲𝐨𝐦 - 𝐈𝐍𝐓𝐉 - 𝟏𝟗 - 𝐅𝐲𝐨𝐝𝐨𝐫 𝐤𝐢𝐧𝐧𝐢𝐞 - 𝐓𝐚𝐤𝐞𝐧
+𝐒𝐯𝐚𝐢𝐧/𝐀𝐫𝐭𝐲𝐨𝐦 - 𝐈𝐍𝐓𝐉 - 𝟏𝟗 - #1 𝐅𝐲𝐨𝐝𝐨𝐫 𝐤𝐢𝐧𝐧𝐢𝐞 
 
 𝐖𝐡𝐢𝐬𝐩𝐞𝐫 - 𝐂 + 𝐇 - 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭 
 
